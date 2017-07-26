@@ -1,0 +1,11 @@
+hypothetical HW 0 for prerequisites for E-61
+
+1. Write the program for "Hello, world" in C.
+2. Write a function to add to integers.
+3. Rewrite the function from question 2 in three additional ways for the same results.
+4. Declare a pointer variable.
+5. Call malloc and free.
+6. Define a structure.
+7. Use typedef.
+8. Use string functions correctly (strcmp, strlen, strcat, strdup)
+9. Write a function that takes three arguments, a size and two objects, and exchanges the values of the two objects (each of which have the given size).
